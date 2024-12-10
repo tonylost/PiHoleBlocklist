@@ -9,10 +9,10 @@ If you have problems with any of these services, you are welcome to open an issu
 
 | List name | GitHub Pages Link |
 | :----: | :----: |
-| Amazon Fire TV | [Link](https://perflyst.github.io/PiHoleBlocklist/AmazonFireTV.txt) |
-| Amazon Fire TV AGH | [Link](https://github.com/tonylost/PiHoleBlocklist/raw/refs/heads/master/FireTVok.txt) |
-| Session Reply | [Link](https://perflyst.github.io/PiHoleBlocklist/SessionReplay.txt) |
-| Smart TV AGH | [Link](https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt) |
-| Smart TV | [Link](https://perflyst.github.io/PiHoleBlocklist/SmartTV.txt) |
-| Android Tracking | [Link](https://perflyst.github.io/PiHoleBlocklist/android-tracking.txt) |
-| Regex List | [Link](https://perflyst.github.io/PiHoleBlocklist/regex.list) |
+| Amazon Fire TV | [Link](https://tonylost.github.io/PiHoleBlocklist/AmazonFireTV.txt) |
+| Amazon Fire TV AGH | [Link](https://tonylost.github.io/PiHoleBlocklist/FireTVok.txt) |
+| Session Reply | [Link](https://tonylost.github.io/PiHoleBlocklist/SessionReplay.txt) |
+| Smart TV AGH | [Link](https://tonylost.github.io/PiHoleBlocklist/SmartTV-AGH.txt) |
+| Smart TV | [Link](https://tonylost.github.io/PiHoleBlocklist/SmartTV.txt) |
+| Android Tracking | [Link](https://tonylost.github.io/PiHoleBlocklist/android-tracking.txt) |
+| Regex List | [Link](https://tonylost.github.io/PiHoleBlocklist/regex.list) |
